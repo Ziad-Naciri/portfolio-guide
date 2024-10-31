@@ -66,8 +66,6 @@ This project is a secure and high-performance personal portfolio website develop
 - Only trusted the explicitly listed hashes.
 - Deployed to Netlify and configured proper CSP in the `netlify.toml` deployment file.
   
-### TODO - Add `report-uri` for CSP violation reporting.
-
 ## CSRF Mitigation - Contact Form
 - Started using [Netlify Spam filters](https://docs.netlify.com/forms/spam-filters/) which leverage Akismet, an industry leader in spam detection, to filter undesired spam.
 - Implemented a honeypot field to detect and block bot submissions.

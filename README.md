@@ -21,6 +21,7 @@ This project is a secure and high-performance personal portfolio website develop
   - [x] **Code minification**: HTML, CSS, and JavaScript are minified.
 - [x] **Web analytics and error tracking**:
   - [x] **Netlify Analytics**: Confirmed active tracking ID.
+  - [x] **Google Analytics**: Analytics and traffic management.
 - [x] **Learning Go and Hugo**: Hugo and Go usage demonstrated.
 - [x] **Highlighting SSG benefits**: Portfolio shows SSG benefits, speed, and security.
 

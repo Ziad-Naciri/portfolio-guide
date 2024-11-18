@@ -43,7 +43,7 @@ This project is a secure and high-performance personal portfolio website develop
   - [x] **Code minification**: Minified code.
 - [x] **Analytics and Monitoring**:
   - [x] **Netlify Analytics**: Active.
-  - [ ] **Sentry for error tracking**: Sentry not supported for Hugo/ Will implement repot Uri in the CSP instead.
+  - [x] **Google Analytics**: Analytics and traffic management.
 - [x] **Testing Phase**:
   - [x] **Security testing with OWASP ZAP**: Completed with informational uncompromising alerts.
   - [x] **Unit tests, performance testing with Google Lighthouse**: Passed with 98 Performance, 100 SEO ,100 in Best Practices and 100 in Accessibility.
@@ -55,8 +55,13 @@ This project is a secure and high-performance personal portfolio website develop
 
 ![ZAP Homepage](lighthouse/lighthouse-test-99-perf.PNG)
 ---
-# OWASP ZAP Security Test Results:
+## Google Analytics integration:
+- Integrated Google Analytics in the Portfolio website levereging [Hugo´s embedded templates](https://gohugo.io/templates/embedded/#google-analytics).
+  
+![image](https://github.com/user-attachments/assets/55ccfeef-a851-4cdf-b7e3-d012d0f8f52d)
+---
 
+# OWASP ZAP Security Test Results:
 ## OWASP ZAProxy Alerts:
 ![ZAP Homepage](owasp-zap/zap-alerts-portfolio.PNG)
 

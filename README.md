@@ -58,7 +58,7 @@ This project is a secure and high-performance personal portfolio website develop
 ## Google Analytics integration:
 - Integrated Google Analytics in the Portfolio website levereging [Hugo´s embedded templates](https://gohugo.io/templates/embedded/#google-analytics).
   
-![image](https://github.com/user-attachments/assets/55ccfeef-a851-4cdf-b7e3-d012d0f8f52d)
+![image](https://github.com/user-attachments/assets/d39abe88-c050-4940-aa87-982e3edf3423)
 ---
 
 # OWASP ZAP Security Test Results:
